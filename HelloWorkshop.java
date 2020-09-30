@@ -1,6 +1,6 @@
 /* Hello Workshop Java Program */
 /* 9-12-12 */
-class helloWorkshop  {
+class HelloWorkshop  {
     public static void main(String[] args) {
         System.out.println("Greetings Workshop!");
         System.out.println("This is an example file");
